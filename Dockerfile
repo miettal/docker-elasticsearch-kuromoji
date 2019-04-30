@@ -1,4 +1,4 @@
-FROM elasticsearch:5
+FROM elasticsearch:6
 
 MAINTAINER miettal <taisyo@hongo.wide.ad.jp>
 
